@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SHIBINSHA02
 - 👀 I’m interested in Coding and Algorithm Design
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Tkinter and panda package
+- 💞️ I’m looking to collaborate on ML and DS
 - 📫 How to reach me linkedin:https://www.linkedin.com/in/shibinsha365/
 
 <!---
