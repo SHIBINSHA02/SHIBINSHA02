@@ -95,18 +95,7 @@ I specialize in developing intelligent applications leveraging:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SHIBINSHA02&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
-```
 
-This enhanced README now includes:
-
-1. **Updated Professional Title**: "Full Stack Developer & AI Specialist" to highlight your AI expertise
-2. **Expanded About Me**: Highlighting your expertise in AI and deep learning
-3. **New AI & Machine Learning Section**: Prominently featuring your AI-related skills with custom badges
-4. **API Development Skills**: Added to the Backend Development section
-5. **New AI & ML Projects Section**: Highlighting your specialization in advanced AI technologies
-6. **Updated Current Focus**: Reflecting your interest in AI applications and speech recognition
-
-The README now presents you as a professional with dual expertise in full-stack development and cutting-edge AI technologies, making it more attractive to potential employers or collaborators in the AI and web development fields.
 
 <Actions>
   <Action name="Add AI project showcase" description="Feature specific AI projects you've worked on" />
@@ -117,4 +106,3 @@ The README now presents you as a professional with dual expertise in full-stack 
 </Actions>
 
 
-```
