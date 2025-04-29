@@ -10,10 +10,14 @@ Results-driven Full Stack Developer and AI Specialist with expertise in modern w
 ## 💻 Technical Skills
 
 ### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LLM](https://img.shields.io/badge/Large%20Language%20Models-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/Retrieval%20Augmented%20Generation-11B48A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAhGVYSWZNTQAqAAAACAAGARIAAwAAAAEAAQAAARoABQAAAAEAAABWARsABQAAAAEAAABeASgAAwAAAAEAAgAAATEAAgAAABUAAABmh2kABAAAAAEAAAB8AAAAAAAAAEgAAAABAAAASAAAAAFQaXhlbG1hdG9yIFBybyAzLjAuMQAAAASQAwACAAAAFAAAAJKgAgAEAAAAAQAAAA6gAwAEAAAAAQAAAA4AAAAA/LvvVAAAAAlwSFlzAAALEwAACxMBAJqcGAAAADNQTFRFAAAAZsxmM5lmAGYzAJkzM2ZmMzMzZmZmZjMzMzNmZjNmmTMzmWZmmTNmmQAzmQAA////wN1u2QAAAAR0Uk5TAP///7MRbSgAAAABYktHRDpOCFeuAAAAbElEQVQI12NgYGRiBgFGBkYGRhZWNnYOTi5uHl4+fgFBIWERUTFxCUkpaRlZOXkFRSVlFVU1dQ1NLW0dXT19A0MjYxNTM3MLSytrG1s7ewdHJ2cXVzd3D08vbx9fP/+AwKDgkNCw8IjIqOgYAOZ+CQyXAG2cAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIzLTEwLTI2VDEwOjI3OjA3KzAwOjAwRLPwfgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMy0xMC0yNlQxMDoyNzowNyswMDowMDXuSMIAAAAASUVORK5CYII=&logoColor=white)
 ![Agents](https://img.shields.io/badge/AI%20Agents-00A67E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAflBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+yfIzaAAAAKXRSTlMABom7SCPb+jlZ5r8bBFHx3Q3N6yQHZvvXG5bfK+H2WDDChhpAw+gJA/R3ZXQAAAABYktHRCpTvtSeAAAAVElEQVQI12NgAANGJmYWVjZ2Dk4ubh5ePgYGfgFBIWERUTFxCUkpaRlZOXkFRSVlFVU1dQ1NLW0dXT19A0MjYxNTM3MLSytrG1s7ewdHJ2cXVzcPTwA2VQRl0tdCFwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0xMC0yNlQxMDoyODozMCswMDowMIVm5MMAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMTAtMjZUMTA6Mjg6MzArMDA6MDDEO1x/AAAAAElFTkSuQmCC&logoColor=white)
+![Models](https://img.shields.io/badge/ML%20Models-025E8C?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![DeepSpeech](https://img.shields.io/badge/DeepSpeech-FF0000?style=for-the-badge&logo=mozilla&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -61,6 +65,8 @@ I specialize in developing intelligent applications leveraging:
 - **Retrieval-Augmented Generation (RAG)** systems for knowledge-based AI applications
 - **AI Agents** for autonomous task execution and problem-solving
 - **Deep Learning** for computer vision and speech recognition
+- **Convolutional Neural Networks (CNN)** for image processing and analysis
+- **PyTorch & TensorFlow** for building and training custom ML models
 - **API Integration** for connecting AI services with web applications
 
 ## 🏆 Competitive Programming
@@ -72,7 +78,7 @@ I specialize in developing intelligent applications leveraging:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHIBINSHA02&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIBINSHA02&theme=github-dark-blue&hide_border=true" alt="Streak Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SHIBINSHA02&theme=github-dark-blue&hide_border=true" alt="Streak Stats" height="170"/>
 </div>
 
 <div align="center">
@@ -82,6 +88,7 @@ I specialize in developing intelligent applications leveraging:
 ## 🔭 Current Focus
 - Building advanced AI applications with LLMs and RAG architectures
 - Developing full-stack applications with AI integration
+- Training custom CNN models for computer vision applications
 - Exploring speech recognition technologies with DeepSpeech
 - Contributing to open-source AI and web development projects
 - Solving complex algorithmic problems
@@ -91,15 +98,4 @@ I specialize in developing intelligent applications leveraging:
 - GitHub: [SHIBINSHA02](https://github.com/SHIBINSHA02)
 
 ---
-
-
-<Actions>
-  <Action name="Add AI project showcase" description="Feature specific AI projects you've worked on" />
-  <Action name="Include AI research interests" description="Add a section about AI research areas you're interested in" />
-  <Action name="Create a skills radar chart" description="Add a visual representation of your skill levels" />
-  <Action name="Add blog/publication links" description="Include links to any technical articles you've written" />
-  <Action name="Create a custom AI workflow diagram" description="Add a visual representation of your AI development process" />
-</Actions>
-
-
 
