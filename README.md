@@ -116,6 +116,7 @@ I specialize in building cutting-edge AI applications with a focus on:
 
 ---
 
+<!---
 ## 🏆 Competitive Programming
 
 <div align="center">
@@ -130,6 +131,7 @@ I specialize in building cutting-edge AI applications with a focus on:
 - Continuously improving problem-solving and optimization skills
 
 ---
+--->
 
 ## 🔭 Current Focus
 
