@@ -9,28 +9,11 @@
 
 ## 👨‍💻 About Me
 
-Results-driven **Full Stack Developer** and **AI Specialist** with expertise in modern web technologies, deep learning, and large language models. Passionate about creating intelligent, scalable solutions at the intersection of web development and artificial intelligence. Committed to developing innovative applications that leverage cutting-edge AI technologies to solve real-world problems.
+Results-driven **Full Stack Developer** with expertise in modern web technologies and a strong background in AI. Passionate about building robust, scalable web applications and integrating intelligent features to enhance user experience. Committed to creating innovative solutions that combine clean code architecture with cutting-edge technologies to solve real-world problems effectively.
 
 ---
 
 ## 🛠️ Tech Stack
-
-<details open>
-<summary><b>AI & Machine Learning</b></summary>
-<br>
-  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![LLM](https://img.shields.io/badge/Large%20Language%20Models-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/Retrieval%20Augmented%20Generation-11B48A?style=for-the-badge&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Agents](https://img.shields.io/badge/AI%20Agents-00A67E?style=for-the-badge&logoColor=white)
-![DeepSpeech](https://img.shields.io/badge/DeepSpeech-FF0000?style=for-the-badge&logo=mozilla&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-  
-</details>
 
 <details open>
 <summary><b>Frontend Development</b></summary>
@@ -74,6 +57,21 @@ Results-driven **Full Stack Developer** and **AI Specialist** with expertise in 
   
 </details>
 
+<details open>
+<summary><b>AI & Machine Learning</b></summary>
+<br>
+  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LLM](https://img.shields.io/badge/Large%20Language%20Models-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/Retrieval%20Augmented%20Generation-11B48A?style=for-the-badge&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+  
+</details>
+
 <details>
 <summary><b>Mobile & Other Technologies</b></summary>
 <br>
@@ -90,16 +88,16 @@ Results-driven **Full Stack Developer** and **AI Specialist** with expertise in 
 
 ---
 
-## 🧠 AI & ML Expertise
+## 💼 Professional Expertise
 
-I specialize in building cutting-edge AI applications with a focus on:
+I specialize in full stack development with complementary AI skills:
 
-- **🤖 Large Language Models (LLMs)** - Developing conversational agents and text generation systems
-- **📚 Retrieval-Augmented Generation (RAG)** - Creating knowledge-grounded AI systems that combine retrieval with generation
-- **🔍 AI Agents** - Building autonomous systems that can perform complex tasks and make decisions
-- **🖼️ Computer Vision** - Implementing CNN architectures for image classification, object detection, and segmentation
-- **🔊 Speech Recognition** - Developing systems for audio processing and speech-to-text conversion
-- **🔄 Full-Stack AI Integration** - Seamlessly integrating AI capabilities into web and mobile applications
+- **🌐 Web Applications** - Building responsive, high-performance applications with modern frameworks
+- **🔄 RESTful API Development** - Creating robust and scalable backend services
+- **📱 User Experience** - Developing intuitive interfaces with React and Next.js
+- **🛠️ System Architecture** - Designing scalable and maintainable application structures
+- **🔍 Problem Solving** - Implementing efficient algorithms and optimization techniques
+- **🤖 AI Integration** - Enhancing applications with intelligent features using ML and LLMs
 
 ---
 
@@ -135,12 +133,12 @@ I specialize in building cutting-edge AI applications with a focus on:
 
 ## 🔭 Current Focus
 
-- Building enterprise-level RAG systems with advanced retrieval strategies
-- Developing autonomous AI agents for specialized tasks
-- Creating full-stack applications with seamless AI integration
-- Training custom deep learning models for computer vision and NLP tasks
-- Contributing to open-source AI and web development projects
-- Exploring multimodal AI systems combining vision, language, and audio
+- Mastering advanced React patterns and Next.js application architecture
+- Building scalable full-stack applications with optimal performance
+- Developing modern UI/UX with the latest frontend technologies
+- Creating efficient backend systems with Node.js and Express
+- Contributing to open-source web development projects
+- Enhancing web applications with AI-powered features and capabilities
 
 ---
 
@@ -156,5 +154,5 @@ I specialize in building cutting-edge AI applications with a focus on:
 ---
 
 <div align="center">
-  <i>⚡ "The best way to predict the future is to invent it." ⚡</i>
+  <i>⚡ "Building the web of tomorrow with the code of today." ⚡</i>
 </div>
