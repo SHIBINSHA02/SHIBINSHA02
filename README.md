@@ -70,7 +70,7 @@ Results-driven **Full Stack Developer** with expertise in modern web technologie
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
   
-</details>
+</details open>
 
 <details>
 <summary><b>Mobile & Other Technologies</b></summary>
@@ -133,12 +133,12 @@ I specialize in full stack development with complementary AI skills:
 
 ## 🔭 Current Focus
 
-- Mastering advanced React patterns and Next.js application architecture
-- Building scalable full-stack applications with optimal performance
-- Developing modern UI/UX with the latest frontend technologies
-- Creating efficient backend systems with Node.js and Express
-- Contributing to open-source web development projects
-- Enhancing web applications with AI-powered features and capabilities
+- Building scalable full-stack applications with modern architecture patterns
+- Integrating AI capabilities to enhance web application functionality
+- Developing efficient APIs and optimizing backend performance
+- Creating intelligent systems with LLMs and RAG technologies
+- Exploring modern UI/UX design with React and Next.js frameworks
+- Contributing to open-source projects at the intersection of web and AI
 
 ---
 
