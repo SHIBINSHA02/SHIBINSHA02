@@ -70,9 +70,9 @@ Results-driven **Full Stack Developer** with expertise in modern web technologie
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
   
-</details open>
+</details>
 
-<details>
+<details open>
 <summary><b>Mobile & Other Technologies</b></summary>
 <br>
   
