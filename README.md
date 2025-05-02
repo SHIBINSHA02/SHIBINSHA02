@@ -105,7 +105,7 @@ I specialize in full stack development with complementary AI skills:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIBINSHA02&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIBINSHA02&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="300"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIBINSHA02&theme=github-dark-blue&hide_border=true" alt="Streak Stats" height="170"/>
 </div>
 
