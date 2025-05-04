@@ -110,7 +110,7 @@ I specialize in full stack development with complementary AI skills:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIBINSHA02&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIBINSHA02&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" width=auto/>
 </div>
 
 ---
